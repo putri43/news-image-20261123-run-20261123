@@ -2,11 +2,11 @@
 Gathered 2026-11-23 ~15:00 WITA from web news search (news vertical) + primary-outlet
 reporting. Every story below happened OR was first reported on Monday 23 Nov 2026
 in some time zone. The Shenzhen summit / "Declaration toward Peace" was 19 Nov —
-NOT used as a 23 Nov story (only the 23 Nov aftermath: Trump calling Putin "my
-friend" is in the One Turn politics brief, but the lead uses the 23 Nov Hormuz
-threat instead). COP31's collapse happened Sunday 22 Nov but was the lead story of
-Monday's papers (TBS published 23 Nov 10:00 +06:00; EuropeSays 23 Nov 00:06Z) —
-included as Monday's top reported story, worded without claiming it happened Monday.
+NOT used as a 23 Nov story (only the 23 Nov aftermath is in the day's briefs; the
+lead uses the 23 Nov Hormuz threat instead). COP31's collapse happened Sunday
+22 Nov but was the lead story of Monday's papers (TBS published 23 Nov 10:00
++06:00; EuropeSays 23 Nov 00:06Z) — included as Monday's top reported story,
+worded without claiming it happened Monday.
 
 Total rendered: 34 stories (1 lead + 33 list) across 8 geographic regions
 (North America, South America, Europe, Middle East, Africa, East Asia,
