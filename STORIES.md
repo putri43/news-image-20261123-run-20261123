@@ -78,9 +78,14 @@ South-East Asia, South Asia) + a WORLD section (global markets/tech/climate/spor
 15. FRENCH STUDENTS PLAN NATIONWIDE PROTESTS
     Source: The Munich Eye 23 Nov 06:21 ("French students prepare for nationwide
     protests over educational reforms").
-16. LAGARDE TO STEP DOWN AS ECB CHIEF IN FEB 2027
-    Source: The Munich Eye 23 Nov ("Christine Lagarde to step down as ECB President
-    in February 2027").
+16. BURNHAM HAILS LANDMARK EU DEAL BEFORE MPS
+    Sources: BBC News via madeinshoreditch.co.uk, published 23/11/2026
+    ("Prime Minister Andy Burnham will tell MPs on Monday 23 November that
+    the deal struck with the EU in Brussels on Friday 20 November is a
+    landmark agreement"); europeays.com 23 Nov (EU-UK summit, Brussels,
+    20 Nov; food-safety area, ETS link, youth scheme). Replaces the v1
+    Lagarde item: Lagarde's departure was announced 29 Oct 2026 (ECB press
+    release), 25 days before this front page — not a 23 Nov story.
 17. FIFA TO NAME UK AS 2035 WOMEN'S WORLD CUP HOST
     Source: HuddleWorld 23 Nov ("Fifa is set to confirm on Monday that a first
     football World Cup will be hosted in the United Kingdom since 1966").
@@ -118,8 +123,10 @@ South-East Asia, South Asia) + a WORLD section (global markets/tech/climate/spor
 
 ## EAST ASIA
 26. SOUTH KOREA EXPORTS PASS $1 TRILLION, A FIRST
-    Source: SimpleLife 23 Nov (Customs Service said Monday annual exports surpassed
-    $1 trillion for the first time, driven by AI chip demand).
+    Source: SimpleLife 23 Nov (Customs Service said annual exports surpassed
+    $1 trillion for the first time, driven by AI chip demand). NOTE: the
+    milestone itself was hit Thu 19 Nov (Korea Customs Service); it led
+    Monday's business coverage through the weekend, kept as a landmark story.
 27. KOSPI PLUNGES 5% IN AI ROUT; SEOUL ACTS
     Source: FeedCast 23 Nov (KOSPI dropped 5% during the global AI rout; finance
     minister pledges market stabilization).
@@ -131,7 +138,8 @@ South-East Asia, South Asia) + a WORLD section (global markets/tech/climate/spor
     chaos over measures against AI-assisted cheating on the college entrance exam).
 30. MONGOLIA PRESIDENT RESIGNS, PARLIAMENT AGREES
     Source: One Turn politics 23 Nov ("Mongolia's parliament approves president's
-    resignation").
+    resignation"). NOTE: parliament approved Thu 19 Nov (Khurelsukh announced
+    17 Nov, Reuters); still in Monday's news roundups, kept as a landmark story.
 
 ## SOUTH-EAST ASIA
 31. MAYON ERUPTION RAISES FEARS OF BIGGER BLAST

@@ -10,7 +10,8 @@ it to `$MAKEFUN_OUTPUT_DIR/entry.png`.
 [![reward](https://make.fun/badge/news-image-20261123/putri43/news-image-20261123-run-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 Run it with `mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py`, then check
-`out/entry.png`. Pure Python 3.13 standard library: the text is drawn with a 5x7
-bitmap font embedded in `main.py`, so it needs no system fonts and no image
-library, no network, and the same program always writes the same bytes.
-`STORIES.md` lists every story with its source.
+`out/entry.png`. Pure Python 3.13 standard library: the text is drawn with a
+vector single-stroke font defined in `main.py` and anti-aliased by 2x
+supersampling, so it needs no system fonts and no image library, no network,
+and the same program always writes the same bytes. `STORIES.md` lists every
+story with its source.
